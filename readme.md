@@ -15,4 +15,5 @@ There are five options
 --prefix The prefix of output files.
 
 
-
+Citation:
+Jiang M., Ning W., Wu S., Wang X., Zhu K., Li A., Li Y., Cheng S., and Song B. Three-nucleotide periodicity of nucleotide diversity in a population enables the identification of open reading frames. Briefings in Bioinformatics. 2022. 1-13
